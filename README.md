@@ -7,3 +7,5 @@ the connection to the cluster is done by using Kubectl command line access by ru
 ![carbon](https://github.com/Hayat-azelmat/Running-MySQL-in-GKE/assets/110396492/86802c82-30ea-43cc-bb78-ec630dd89b07)
 
 Test the connection with the following kubectl command
+
+![carbon (1)](https://github.com/Hayat-azelmat/Running-MySQL-in-GKE/assets/110396492/6557d36a-650b-41bb-9004-7d1edc77c425)
