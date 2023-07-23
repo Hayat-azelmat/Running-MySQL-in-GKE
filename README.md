@@ -24,9 +24,9 @@ now ceate the configuration files : volume.yaml - deployment.yaml - service.yaml
 
 To deploy our database, we should run the following kubectl commands
 
->> kubectl apply -f volume.yaml
->> kubectl apply -f deployment.yaml
->> kubectl apply -f service.yaml
+# kubectl apply -f volume.yaml
+# kubectl apply -f deployment.yaml
+# kubectl apply -f service.yaml
 
 
 <img width="1458" alt="Capture d’écran 2023-07-19 à 22 45 17" src="https://github.com/Hayat-azelmat/Running-MySQL-in-GKE/assets/110396492/167d2237-5d80-4f29-9fca-608bea240b01">
