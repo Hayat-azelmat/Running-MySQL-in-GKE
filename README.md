@@ -12,3 +12,4 @@ Test the connection with the following kubectl command
 
 ![carbon (2)](https://github.com/Hayat-azelmat/Running-MySQL-in-GKE/assets/110396492/f35ded3b-7634-4b88-a050-92abeb811ccd)
 ![carbon (4)](https://github.com/Hayat-azelmat/Running-MySQL-in-GKE/assets/110396492/c2618be8-d3a2-4ddf-b4c2-dc12a3ab8c36)
+![carbon (6)](https://github.com/Hayat-azelmat/Running-MySQL-in-GKE/assets/110396492/7f9b7c5e-1f8b-478c-813e-6790b2e9aa63)
