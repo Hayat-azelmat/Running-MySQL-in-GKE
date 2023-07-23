@@ -24,7 +24,8 @@ now ceate the configuration files : volume.yaml - deployment.yaml - service.yaml
 
 To deploy our database, we should run the following kubectl commands
 
-![carbon (1)](https://github.com/Hayat-azelmat/Running-MySQL-in-GKE/assets/110396492/21a63338-5c36-4415-b83e-d804b963f18c)
+![carbon (2)](https://github.com/Hayat-azelmat/Running-MySQL-in-GKE/assets/110396492/e1ade8a4-afb7-4ea2-8a8b-8545e01e1a46)
+
 
 
 <img width="1458" alt="Capture d’écran 2023-07-19 à 22 45 17" src="https://github.com/Hayat-azelmat/Running-MySQL-in-GKE/assets/110396492/167d2237-5d80-4f29-9fca-608bea240b01">
